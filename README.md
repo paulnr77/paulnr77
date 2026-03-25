@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠 Skills
+## Skills
 - Active Directory (User Management, Group Policy)
 - DNS / DHCP troubleshooting
 - Windows Server 2019
@@ -16,9 +16,9 @@
 
 ---
 
-## 🔬 Home Lab Projects
+##  Home Lab Projects
 
-### 🖥 Help Desk Lab
+###  Help Desk Lab
 - Active Directory domain (lab.local)
 - User/group management
 - DNS configuration & troubleshooting

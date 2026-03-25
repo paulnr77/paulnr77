@@ -1,6 +1,6 @@
 # Hi, I'm Pavel Rosiyskov👋
 
-🎓 AAS in cybersecurity at Tidewater Community College 2025 (3.965GPA) 
+🎓 AAS in cybersecurity at Tidewater Community College 2025 (3.965GPA)
 🎓 Cybersecurity student at Old Dominion University  
 🔐 CompTIA Security+ | A+  
 💻 Aspiring SOC Analyst / IT Support Specialist  
